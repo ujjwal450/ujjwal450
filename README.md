@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ujjwal450
-- 👀 I’m interested in full stack development.
+- 👀 I’m interested in Full Stack Development and Machine Learning.
 - 🌱 I’m currently learning Machine Learnng.
 
 <!---
