@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ujjwal450
-- 👀 I’m interested in Full Stack Development(MERN Stack).
+- 👀 I’m interested in Full Stack Development (MERN Stack).
 - 🌱 I’m currently working on a Social Media App.
 
 <!---
